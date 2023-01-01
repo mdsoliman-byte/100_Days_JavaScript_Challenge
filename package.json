@@ -1,0 +1,12 @@
+{
+  "name": "100_days_javascript_challenge",
+  "version": "1.0.0",
+  "description": "This Is My 100 Days Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD SOLIMAN",
+  "license": "ISC"
+}
